@@ -14,7 +14,7 @@
     "php": "~7.0|~8.0",
     "php-di/php-di": "^6.0",
     "guzzlehttp/guzzle": "^6.3|^7.0",
-    "monolog/monolog": "^2.1",
+    "monolog/monolog": "^2.1|^3.0",
     "tiagosampaio/data-object": "^1.0",
     "tiagosampaio/event-observer": "^1.0"
   },
